@@ -1,6 +1,6 @@
 {
   "name": "bcccore-build",
-  "version": "0.8.0",
+  "version": "0.0.1",
   "description": "A helper for common tasks to build bcccore modules'",
   "main": "index.js",
   "scripts": {
