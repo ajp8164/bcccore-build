@@ -1,4 +1,5 @@
-# bcccore-build
+Bcccore Build
+=======
 
 A helper to add tasks to gulp.
 
